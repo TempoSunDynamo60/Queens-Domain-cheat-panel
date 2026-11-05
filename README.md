@@ -46,7 +46,7 @@ Runtime utility for **[Queen's Domain](https://store.steampowered.com/app/179984
 |---|---|
 | **Queen's Domain PC Utility (52)** | [darktrainer.com](https://darktrainer.com/queens-domain-cheat) |
 | **Game on Steam** | [Queen's Domain — Steam](https://store.steampowered.com/app/1799840/Queens_Domain/) |
-| **Full Option List** | [Full Option List on Gist](#) |
+| **Full Option List** | [Full Option List on Gist](https://gist.github.com/TempoSunDynamo60/78d9e0b77caa769d0ffa4144143a40ed) |
 
 ---
 
